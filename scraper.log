@@ -1,0 +1,170 @@
+2022-09-06 11:29:01,641 INFO Creating csv file to store scraped data
+2022-09-06 11:29:01,655 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:03,338 DEBUG https://coreyms.com:443 "GET /page/1 HTTP/1.1" 200 19149
+2022-09-06 11:29:03,648 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:03,663 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:04,953 DEBUG https://coreyms.com:443 "GET /page/2 HTTP/1.1" 200 19398
+2022-09-06 11:29:05,340 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:06,678 DEBUG https://coreyms.com:443 "GET /page/3 HTTP/1.1" 200 18385
+2022-09-06 11:29:07,036 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:08,455 DEBUG https://coreyms.com:443 "GET /page/4 HTTP/1.1" 200 19171
+2022-09-06 11:29:08,830 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:10,378 DEBUG https://coreyms.com:443 "GET /page/5 HTTP/1.1" 200 18828
+2022-09-06 11:29:10,700 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:11,977 DEBUG https://coreyms.com:443 "GET /page/6 HTTP/1.1" 200 19088
+2022-09-06 11:29:12,339 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:13,690 DEBUG https://coreyms.com:443 "GET /page/7 HTTP/1.1" 200 19001
+2022-09-06 11:29:14,048 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:15,393 DEBUG https://coreyms.com:443 "GET /page/8 HTTP/1.1" 200 19139
+2022-09-06 11:29:15,773 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:17,202 DEBUG https://coreyms.com:443 "GET /page/9 HTTP/1.1" 200 18777
+2022-09-06 11:29:17,567 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:19,008 DEBUG https://coreyms.com:443 "GET /page/10 HTTP/1.1" 200 18578
+2022-09-06 11:29:19,387 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:20,915 DEBUG https://coreyms.com:443 "GET /page/11 HTTP/1.1" 200 19225
+2022-09-06 11:29:21,255 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:22,621 DEBUG https://coreyms.com:443 "GET /page/12 HTTP/1.1" 200 19627
+2022-09-06 11:29:22,978 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:24,426 DEBUG https://coreyms.com:443 "GET /page/13 HTTP/1.1" 200 19103
+2022-09-06 11:29:24,779 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:26,233 DEBUG https://coreyms.com:443 "GET /page/14 HTTP/1.1" 200 19676
+2022-09-06 11:29:26,582 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:28,040 DEBUG https://coreyms.com:443 "GET /page/15 HTTP/1.1" 200 20030
+2022-09-06 11:29:28,397 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:29,846 DEBUG https://coreyms.com:443 "GET /page/16 HTTP/1.1" 200 19861
+2022-09-06 11:29:30,209 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,210 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,211 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,212 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,212 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,213 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,213 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,213 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-06 11:29:30,215 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-06 11:29:31,445 DEBUG https://coreyms.com:443 "GET /page/17 HTTP/1.1" 200 17071
+2022-09-06 11:29:31,800 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:20,572 INFO Creating csv file to store scraped data
+2022-09-07 19:47:20,584 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:21,812 DEBUG https://coreyms.com:443 "GET /page/1 HTTP/1.1" 200 19150
+2022-09-07 19:47:22,097 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:22,114 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:23,203 DEBUG https://coreyms.com:443 "GET /page/2 HTTP/1.1" 200 19397
+2022-09-07 19:47:23,509 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:24,620 DEBUG https://coreyms.com:443 "GET /page/3 HTTP/1.1" 200 18386
+2022-09-07 19:47:24,895 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:26,043 DEBUG https://coreyms.com:443 "GET /page/4 HTTP/1.1" 200 19172
+2022-09-07 19:47:26,320 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:27,470 DEBUG https://coreyms.com:443 "GET /page/5 HTTP/1.1" 200 18828
+2022-09-07 19:47:27,745 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:28,868 DEBUG https://coreyms.com:443 "GET /page/6 HTTP/1.1" 200 19087
+2022-09-07 19:47:29,144 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:30,286 DEBUG https://coreyms.com:443 "GET /page/7 HTTP/1.1" 200 19002
+2022-09-07 19:47:30,568 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:31,685 DEBUG https://coreyms.com:443 "GET /page/8 HTTP/1.1" 200 19140
+2022-09-07 19:47:31,972 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:33,066 DEBUG https://coreyms.com:443 "GET /page/9 HTTP/1.1" 200 18774
+2022-09-07 19:47:33,347 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:34,525 DEBUG https://coreyms.com:443 "GET /page/10 HTTP/1.1" 200 18578
+2022-09-07 19:47:34,800 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:35,935 DEBUG https://coreyms.com:443 "GET /page/11 HTTP/1.1" 200 19226
+2022-09-07 19:47:36,228 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:37,384 DEBUG https://coreyms.com:443 "GET /page/12 HTTP/1.1" 200 19627
+2022-09-07 19:47:37,666 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:38,773 DEBUG https://coreyms.com:443 "GET /page/13 HTTP/1.1" 200 19103
+2022-09-07 19:47:39,048 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:40,186 DEBUG https://coreyms.com:443 "GET /page/14 HTTP/1.1" 200 19675
+2022-09-07 19:47:40,458 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:41,598 DEBUG https://coreyms.com:443 "GET /page/15 HTTP/1.1" 200 20030
+2022-09-07 19:47:41,866 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:43,012 DEBUG https://coreyms.com:443 "GET /page/16 HTTP/1.1" 200 19861
+2022-09-07 19:47:43,276 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,277 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,277 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,277 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,278 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,279 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,280 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,280 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
+2022-09-07 19:47:43,281 DEBUG Starting new HTTPS connection (1): coreyms.com:443
+2022-09-07 19:47:44,368 DEBUG https://coreyms.com:443 "GET /page/17 HTTP/1.1" 200 17070
+2022-09-07 19:47:44,660 ERROR Exception occured 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "E:\Data\FSDS\36 09-04-2022 Review Scrapper\Python Tutorial_ Web Scraping with BeautifulSoup and Requests\Coreys_Scraper\scrape.py", line 36, in <module>
+    vid_src = article.find('iframe', class_='youtube-player')['src']
+TypeError: 'NoneType' object is not subscriptable
